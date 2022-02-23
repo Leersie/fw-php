@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ed03b49-603a-47ad-aeb5-c8affb6067ce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/main/vFooter.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/main/vFooter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/main/vHeader.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/main/vHeader.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/czproject/git-php/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/czproject/git-php/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/czproject/git-php/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/czproject/git-php/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/czproject/git-php/src/GitRepository.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/czproject/git-php/src/IGit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/czproject/git-php/tests/GitPhp/basic.phpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/czproject/git-php/tests/GitPhp/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/czproject/git-php/tests/GitPhp/clone.phpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/czproject/git-php/tests/GitPhp/execute.phpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/czproject/git-php/tests/GitPhp/extractRepositoryNameFromUrl().phpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/czproject/git-php/tests/GitPhp/isRemoteUrlReadable.phpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/czproject/git-php/tests/run-tests.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/UPGRADE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/DateTimeImmutable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/ErrorHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/ElasticaFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/ElasticsearchFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/FlowdockFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/FluentdFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/FormatterInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/LogmaticFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/LogstashFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/MongoDBFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/ScalarFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/AbstractHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/AbstractSyslogHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/AmqpHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/BrowserConsoleHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/BufferHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/ChromePHPHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/CouchDBHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/CubeHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/Curl/Util.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/DeduplicationHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/DoctrineCouchDBHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/DynamoDbHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/ElasticaHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/ElasticsearchHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/ErrorLogHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/FallbackGroupHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/FilterHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ActivationStrategyInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ChannelLevelActivationStrategy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/FirePHPHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/FleepHookHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/FlowdockHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/FormattableHandlerInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/FormattableHandlerTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/GelfHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/GroupHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/HandlerInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/HandlerWrapper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/IFTTTHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/InsightOpsHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/LogEntriesHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/LogglyHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/LogmaticHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/MailHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/MandrillHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/MissingExtensionException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/MongoDBHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/NativeMailerHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/NewRelicHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/NoopHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/NullHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/OverflowHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/PHPConsoleHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/ProcessHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/ProcessableHandlerInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/ProcessableHandlerTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/PsrHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/PushoverHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/RedisHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/RedisPubSubHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/RollbarHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/RotatingFileHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/SamplingHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/SendGridHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/Slack/SlackRecord.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/SlackHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/SlackWebhookHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/SocketHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/SqsHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/SwiftMailerHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/SyslogHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/SyslogUdp/UdpSocket.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/SyslogUdpHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/TelegramBotHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/TestHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/WebRequestRecognizerTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/WhatFailureGroupHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/ZendMonitorHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Logger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Processor/ProcessorInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Registry.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/ResettableInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/SignalHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Test/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Utils.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/php-mv-ui/Ajax/JsUtils.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/php-mv-ui/Ajax/JsUtils.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/php-mv-ui/Ajax/php/ubiquity/JsUtils.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/php-mv-ui/Ajax/php/ubiquity/JsUtils.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/php-mv-ui/Ajax/service/Javascript.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/php-mv-ui/Ajax/service/Javascript.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity-attributes/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity-attributes/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity-attributes/src/Ubiquity/attributes/AttributesEngine.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity-attributes/src/Ubiquity/attributes/AttributesEngine.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity-dev/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity-dev/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity-dev/src/Ubiquity/scaffolding/ScaffoldController.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity-dev/src/Ubiquity/scaffolding/ScaffoldController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity-dev/src/Ubiquity/scaffolding/creators/AuthControllerCreator.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity-dev/src/Ubiquity/scaffolding/creators/AuthControllerCreator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity-dev/src/Ubiquity/scaffolding/creators/CrudControllerCreator.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity-dev/src/Ubiquity/scaffolding/creators/CrudControllerCreator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity-dev/src/Ubiquity/scaffolding/creators/IndexCrudControllerCreator.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity-dev/src/Ubiquity/scaffolding/creators/IndexCrudControllerCreator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity-dev/src/Ubiquity/scaffolding/templates/authController.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity-dev/src/Ubiquity/scaffolding/templates/authController.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity-dev/src/Ubiquity/scaffolding/templates/authController_.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity-dev/src/Ubiquity/scaffolding/templates/authController_.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity-dev/src/Ubiquity/scaffolding/templates/crudController.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity-dev/src/Ubiquity/scaffolding/templates/crudController.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity-dev/src/Ubiquity/scaffolding/templates/mailer.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity-dev/src/Ubiquity/scaffolding/templates/mailer.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity-webtools/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity-webtools/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity-webtools/src/Ubiquity/controllers/admin/UbiquityMyAdminBaseController.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity-webtools/src/Ubiquity/controllers/admin/UbiquityMyAdminBaseController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity-webtools/src/Ubiquity/controllers/admin/traits/CreateControllersTrait.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity-webtools/src/Ubiquity/controllers/admin/traits/CreateControllersTrait.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/.scrutinizer.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/.scrutinizer.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/docs/confproject.rst" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/docs/confproject.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/docs/controller/router.rst" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/docs/controller/router.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/docs/extra/dependencies.rst" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/docs/extra/dependencies.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/docs/scaffolding/auth.rst" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/docs/scaffolding/auth.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/docs/scaffolding/crud.rst" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/docs/scaffolding/crud.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/docs/security/module.rst" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/docs/security/module.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/cache/parser/ControllerParser.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/cache/parser/ControllerParser.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/cache/system/AbstractDataCache.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/cache/system/AbstractDataCache.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/auth/AuthController.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/auth/AuthController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/auth/AuthControllerCoreTrait.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/auth/AuthControllerCoreTrait.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/auth/AuthControllerOverrideTrait.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/auth/AuthControllerOverrideTrait.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/auth/AuthControllerVariablesTrait.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/auth/AuthControllerVariablesTrait.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/auth/AuthFiles.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/auth/AuthFiles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/auth/WithAuthTrait.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/auth/WithAuthTrait.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/crud/CRUDController.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/crud/CRUDController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/crud/CRUDControllerUtilitiesTrait.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/crud/CRUDControllerUtilitiesTrait.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/crud/CRUDDatas.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/crud/CRUDDatas.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/crud/CRUDFiles.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/crud/CRUDFiles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/crud/CRUDMessage.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/crud/CRUDMessage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/crud/MultiResourceCRUDController.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/crud/MultiResourceCRUDController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/crud/interfaces/HasModelViewerInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/crud/interfaces/HasModelViewerInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/crud/viewers/ModelViewer.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/crud/viewers/ModelViewer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/rest/ApiTokens.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/rest/ApiTokens.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/rest/RestServer.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/rest/RestServer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/rest/traits/DynamicResourceTrait.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/controllers/rest/traits/DynamicResourceTrait.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/core/Framework.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/core/Framework.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/core/views/auth/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/core/views/auth/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/core/views/auth/noAccess.html" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/core/views/auth/noAccess.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/core/views/index/semantic.html" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/core/views/index/semantic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/orm/parser/Reflexion.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/orm/parser/Reflexion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/orm/parser/ReflexionFieldsTrait.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/orm/parser/ReflexionFieldsTrait.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/utils/base/UDateTime.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/utils/base/UDateTime.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/utils/http/UCookie.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/utils/http/UCookie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/utils/http/URequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/Ubiquity/utils/http/URequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/tests/acceptance/AuthControllerCest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/tests/acceptance/AuthControllerCest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/tests/files/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/tests/files/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/tests/files/unit/controllers/TestAuthController.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/tests/files/unit/controllers/TestAuthController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/tests/files/unit/controllers/TestCrudOrgas.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/tests/files/unit/controllers/TestCrudOrgas.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/tests/files/unit/controllers/auth/files/TestAuthControllerFiles.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/tests/files/unit/controllers/auth/files/TestAuthControllerFiles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/tests/files/unit/controllers/crud/files/TestCrudOrgasFiles.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/tests/files/unit/controllers/crud/files/TestCrudOrgasFiles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/tests/files/unit/controllers/crud/viewers/TestCrudOrgasViewer.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/tests/files/unit/controllers/crud/viewers/TestCrudOrgasViewer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/tests/unit/scaffolding/ScaffoldControllerTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmv/ubiquity/src/tests/unit/scaffolding/ScaffoldControllerTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/src/AbstractLogger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/src/InvalidArgumentException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/src/LogLevel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/src/LoggerAwareInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/src/LoggerAwareTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/src/LoggerInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/src/LoggerTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/log/src/NullLogger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/CHANGELOG" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/twig/twig/CHANGELOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/src/Environment.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/twig/twig/src/Environment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/src/Extension/CoreExtension.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/twig/twig/src/Extension/CoreExtension.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/phpmv/ubiquity-debug" />
+      <path value="$PROJECT_DIR$/vendor/czproject/git-php" />
+      <path value="$PROJECT_DIR$/vendor/phpmv/ubiquity-attributes" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/phpmv/ubiquity" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/frameworks/jquery" />
+      <path value="$PROJECT_DIR$/vendor/prismjs/prism" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpmv/php-mv-ui" />
+      <path value="$PROJECT_DIR$/vendor/phpmv/ubiquity-webtools" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/phpmv/ubiquity-dev" />
+      <path value="$PROJECT_DIR$/vendor/phpmv/ubiquity-codeception" />
+      <path value="$PROJECT_DIR$/vendor/phpmv/ubiquity-commands" />
+      <path value="$PROJECT_DIR$/vendor/phpmv/ubiquity-devtools" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="249QOpEdDFmn6uLz1cgCzVyyqY6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ed03b49-603a-47ad-aeb5-c8affb6067ce" name="Changes" comment="" />
+      <created>1643040293112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643040293112</updated>
+      <workItem from="1643040295953" duration="1637000" />
+      <workItem from="1643634145113" duration="4965000" />
+      <workItem from="1644236487962" duration="2781000" />
+      <workItem from="1645621390691" duration="1805000" />
+      <workItem from="1645625054468" duration="724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

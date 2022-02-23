@@ -4,16 +4,18 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit1e08fe8a99d0023efb6e8e99c4898cc6
+class ComposerStaticInitb8218c7675af0ee5886be9228a2f8c36
 {
     public static $files = array (
-        '0e6d7bf4a5811bfa5cf40c5ccd6fae6a' => __DIR__ . '/..' . '/symfony/polyfill-mbstring/bootstrap.php',
+        'a4a119a56e50fbb293281d9a48007e0e' => __DIR__ . '/..' . '/symfony/polyfill-php80/bootstrap.php',
         '320cde22f66dd4f5d3fd621d3e88b98f' => __DIR__ . '/..' . '/symfony/polyfill-ctype/bootstrap.php',
+        '0e6d7bf4a5811bfa5cf40c5ccd6fae6a' => __DIR__ . '/..' . '/symfony/polyfill-mbstring/bootstrap.php',
     );
 
     public static $prefixLengthsPsr4 = array (
         'U' => 
         array (
+            'Ubiquity\\tests\\unit\\' => 20,
             'Ubiquity\\' => 9,
         ),
         'T' => 
@@ -22,16 +24,15 @@ class ComposerStaticInit1e08fe8a99d0023efb6e8e99c4898cc6
         ),
         'S' => 
         array (
+            'Symfony\\Polyfill\\Php80\\' => 23,
             'Symfony\\Polyfill\\Mbstring\\' => 26,
             'Symfony\\Polyfill\\Ctype\\' => 23,
+            'Symfony\\Component\\Process\\' => 26,
         ),
-        'P' => 
+        'C' => 
         array (
-            'Psr\\Log\\' => 8,
-        ),
-        'M' => 
-        array (
-            'Monolog\\' => 8,
+            'Codeception\\Module\\' => 19,
+            'Codeception\\Lib\\Connector\\' => 26,
         ),
         'A' => 
         array (
@@ -40,17 +41,27 @@ class ComposerStaticInit1e08fe8a99d0023efb6e8e99c4898cc6
     );
 
     public static $prefixDirsPsr4 = array (
+        'Ubiquity\\tests\\unit\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/phpmv/ubiquity-codeception/src/unit',
+        ),
         'Ubiquity\\' => 
         array (
-            0 => __DIR__ . '/..' . '/phpmv/ubiquity-attributes/src/Ubiquity',
-            1 => __DIR__ . '/..' . '/phpmv/ubiquity/src/Ubiquity',
+            0 => __DIR__ . '/..' . '/phpmv/ubiquity/src/Ubiquity',
+            1 => __DIR__ . '/..' . '/phpmv/ubiquity-commands/src/Ubiquity',
             2 => __DIR__ . '/..' . '/phpmv/ubiquity-debug/src/Ubiquity',
             3 => __DIR__ . '/..' . '/phpmv/ubiquity-dev/src/Ubiquity',
-            4 => __DIR__ . '/..' . '/phpmv/ubiquity-webtools/src/Ubiquity',
+            4 => __DIR__ . '/..' . '/phpmv/ubiquity-devtools/src',
+            5 => __DIR__ . '/..' . '/phpmv/ubiquity-webtools/src/Ubiquity',
+            6 => __DIR__ . '/..' . '/phpmv/ubiquity-attributes/src/Ubiquity',
         ),
         'Twig\\' => 
         array (
             0 => __DIR__ . '/..' . '/twig/twig/src',
+        ),
+        'Symfony\\Polyfill\\Php80\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/polyfill-php80',
         ),
         'Symfony\\Polyfill\\Mbstring\\' => 
         array (
@@ -60,13 +71,17 @@ class ComposerStaticInit1e08fe8a99d0023efb6e8e99c4898cc6
         array (
             0 => __DIR__ . '/..' . '/symfony/polyfill-ctype',
         ),
-        'Psr\\Log\\' => 
+        'Symfony\\Component\\Process\\' => 
         array (
-            0 => __DIR__ . '/..' . '/psr/log/src',
+            0 => __DIR__ . '/..' . '/symfony/process',
         ),
-        'Monolog\\' => 
+        'Codeception\\Module\\' => 
         array (
-            0 => __DIR__ . '/..' . '/monolog/monolog/src/Monolog',
+            0 => __DIR__ . '/..' . '/phpmv/ubiquity-codeception/src/functional',
+        ),
+        'Codeception\\Lib\\Connector\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/phpmv/ubiquity-codeception/src/functional',
         ),
         'Ajax\\' => 
         array (
@@ -79,19 +94,20 @@ class ComposerStaticInit1e08fe8a99d0023efb6e8e99c4898cc6
     );
 
     public static $classMap = array (
+        'Attribute' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
-        'Cz\\Git\\GitException' => __DIR__ . '/..' . '/czproject/git-php/src/IGit.php',
-        'Cz\\Git\\GitRepository' => __DIR__ . '/..' . '/czproject/git-php/src/GitRepository.php',
-        'Cz\\Git\\IGit' => __DIR__ . '/..' . '/czproject/git-php/src/IGit.php',
+        'Stringable' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/Stringable.php',
+        'UnhandledMatchError' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/UnhandledMatchError.php',
+        'ValueError' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/ValueError.php',
     );
 
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInit1e08fe8a99d0023efb6e8e99c4898cc6::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit1e08fe8a99d0023efb6e8e99c4898cc6::$prefixDirsPsr4;
-            $loader->fallbackDirsPsr4 = ComposerStaticInit1e08fe8a99d0023efb6e8e99c4898cc6::$fallbackDirsPsr4;
-            $loader->classMap = ComposerStaticInit1e08fe8a99d0023efb6e8e99c4898cc6::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInitb8218c7675af0ee5886be9228a2f8c36::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInitb8218c7675af0ee5886be9228a2f8c36::$prefixDirsPsr4;
+            $loader->fallbackDirsPsr4 = ComposerStaticInitb8218c7675af0ee5886be9228a2f8c36::$fallbackDirsPsr4;
+            $loader->classMap = ComposerStaticInitb8218c7675af0ee5886be9228a2f8c36::$classMap;
 
         }, null, ClassLoader::class);
     }
